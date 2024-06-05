@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=Itzrahul45&color=green)
 
-![Itsrahulz GitHub stats](https://github-readme-stats.vercel.app/api?username=Itzrahul45&show_icons=true&theme=radical)
+![Itzrahul GitHub stats](https://github-readme-stats.vercel.app/api?username=Itzrahul45&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Itzrahul45&layout=compact&theme=vision-friendly-dark)](https://github.com/Itzrahul45/github-readme-stats)
 
