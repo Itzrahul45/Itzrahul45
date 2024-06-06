@@ -7,7 +7,7 @@
 • I’m currently learning css and java script...<br>:herb:
 • I'm currently improving my Skills....
 
-<!--<img align="right" alt="Coding" width="400" src="https://te.legra.ph/file/1c883ebff56595d1accb5.jpg">-->
+<img align="right" alt="Coding" width="400" src="https://te.legra.ph/file/1c883ebff56595d1accb5.jpg">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Itzrahul45&theme=dark)](https://git.io/streak-stats)
 
@@ -26,60 +26,3 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Animated Text</title>
-    <style>
-        body {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-            margin: 0;
-            background-color: #282c34;
-            color: #61dafb;
-            font-family: 'Arial', sans-serif;
-        }
-
-        .animated-text {
-            font-size: 2em;
-            font-weight: bold;
-            white-space: nowrap;
-            overflow: hidden;
-            border-right: .15em solid orange;
-            animation: typing 4s steps(40, end), blink-caret .75s step-end infinite;
-        }
-
-        @keyframes typing {
-            from { width: 0 }
-            to { width: 100% }
-        }
-
-        @keyframes blink-caret {
-            from, to { border-color: transparent }
-            50% { border-color: orange }
-        }
-    </style>
-</head>
-<body>
-    <div class="animated-text" id="animatedText"></div>
-    <script>
-        const text = "I'm a Web Developer";
-        let index = 0;
-
-        function typeEffect() {
-            if (index < text.length) {
-                document.getElementById("animatedText").innerHTML += text.charAt(index);
-                index++;
-                setTimeout(typeEffect, 150);
-            }
-        }
-
-        window.onload = typeEffect;
-    </script>
-</body>
-</html>
-
