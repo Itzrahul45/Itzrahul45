@@ -4,8 +4,9 @@
 	<br>
 	<br>
 </div>
-### 👋👋Hi, there <br>
+###👋 Hi, there <br>
 I, am Rahul
+<br>
 • I’m currently working on web development...<br>:palm_tree:
 • I’m currently working on a E-commerce website...<br>:herb:
 • I'm currently working on some frameworks like React.js, React native, MongoDB, Express.js.....
