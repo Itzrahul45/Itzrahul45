@@ -3,8 +3,6 @@
 	<img src="welcome-header.gif" alt="welcome to my github profile">
 
 </div>
-###👋 Hi, there <br>
-I, am Rahul
 <br>
 • I’m currently working on web development...<br>:palm_tree:
 • I’m currently working on a E-commerce website...<br>:herb:
