@@ -1,7 +1,5 @@
-
 <div align="center">
 	<img src="welcome-header.gif" alt="welcome to my github profile">
-
 </div>
 <br>
 • I’m currently working on web development...<br>:palm_tree:
