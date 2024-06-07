@@ -1,7 +1,11 @@
 
 ### Hi there, I"m Rahul 👋
 
-
+<div align="center">
+	<img src="welcome-header.gif" alt="welcome to my github profile">
+	<br>
+	<br>
+</div>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I+am+a+Web+Developer..." alt="Typing SVG" />:innocent:</a>
 • I’m currently working on web development...<br>:palm_tree:
 • I’m currently working on a E-commerce website...<br>:herb:
