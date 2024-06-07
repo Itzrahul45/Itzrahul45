@@ -6,11 +6,10 @@
 	<br>
 	<br>
 </div>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I+am+a+Web+Developer..." alt="Typing SVG" />:innocent:</a>
+
 • I’m currently working on web development...<br>:palm_tree:
 • I’m currently working on a E-commerce website...<br>:herb:
 • I'm currently working on some frameworks like React.js, React native, MongoDB, Express.js.....
-
 
 <h2 align="left">
  <abc>
