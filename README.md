@@ -16,6 +16,8 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Itzrahul45&theme=dark)](https://git.io/streak-stats)
 
+![](https://komarev.com/ghpvc/?username=Itzrahul45&color=green)
+
 ![Itzrahul GitHub stats](https://github-readme-stats.vercel.app/api?username=Itzrahul45&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Itzrahul45&layout=compact&theme=vision-friendly-dark)](https://github.com/Itzrahul45/github-readme-stats)
